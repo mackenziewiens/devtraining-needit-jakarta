@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="needit_staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="import_attribute_name=],edge_encryption_enabled=true" label="]" max_length="40" name="u_0" type="string"/>
+        <element attributes="import_attribute_name=^,edge_encryption_enabled=true" label="^" max_length="40" name="u_1" type="string"/>
+        <element attributes="import_attribute_name=_,edge_encryption_enabled=true" label="_" max_length="40" name="u_2" type="string"/>
+        <element attributes="import_attribute_name=a,edge_encryption_enabled=true" label="a" max_length="40" name="u_a" type="string"/>
+        <element attributes="import_attribute_name=b,edge_encryption_enabled=true" label="b" max_length="40" name="u_b" type="string"/>
+        <element attributes="import_attribute_name=c,edge_encryption_enabled=true" label="c" max_length="40" name="u_c" type="string"/>
+        <element attributes="import_attribute_name=d,edge_encryption_enabled=true" label="d" max_length="40" name="u_d" type="string"/>
+        <element attributes="import_attribute_name=e,edge_encryption_enabled=true" label="e" max_length="40" name="u_e" type="string"/>
+        <element attributes="import_attribute_name=f,edge_encryption_enabled=true" label="f" max_length="40" name="u_f" type="string"/>
+        <element attributes="import_attribute_name=g,edge_encryption_enabled=true" label="g" max_length="40" name="u_g" type="string"/>
+        <element attributes="import_attribute_name=h,edge_encryption_enabled=true" label="h" max_length="40" name="u_h" type="string"/>
+        <element attributes="import_attribute_name=i,edge_encryption_enabled=true" label="i" max_length="40" name="u_i" type="string"/>
+        <element attributes="import_attribute_name=j,edge_encryption_enabled=true" label="j" max_length="40" name="u_j" type="string"/>
+        <element attributes="import_attribute_name=k,edge_encryption_enabled=true" label="k" max_length="40" name="u_k" type="string"/>
+        <element attributes="import_attribute_name=l,edge_encryption_enabled=true" label="l" max_length="40" name="u_l" type="string"/>
+        <element attributes="import_attribute_name=m,edge_encryption_enabled=true" label="m" max_length="40" name="u_m" type="string"/>
+        <element attributes="import_attribute_name=n,edge_encryption_enabled=true" label="n" max_length="40" name="u_n" type="string"/>
+        <element attributes="import_attribute_name=o,edge_encryption_enabled=true" label="o" max_length="40" name="u_o" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="T8Í&#7;É&#0;&#2;&#0;&#6;&#8;&#0;&#0;á&#0;&#2;&#0;°&#4;Á&#0;&#2;&#0;&#0;&#0;â&#0;&#0;&#0;\&#0;p&#0;&#4;&#0;&#0;Bell                                         " max_length="40" name="u_t8í_é______________________" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ" max_length="40" name="u_ÿÿÿÿÿÿÿÿÿÿÿÿ_ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ" type="string"/>
+        <element attributes="import_attribute_name=`,edge_encryption_enabled=true" label="`" max_length="40" name="u__" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ÐÏ&#17;à¡±&#26;á&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&gt;&#0;&#3;&#0;þÿ" max_length="40" name="u_ðï_à___á_________________þÿ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="þÿÿÿ&#0;&#0;&#0;&#0;þÿÿÿ&#0;&#0;&#0;&#0;\" max_length="40" name="u_þÿÿÿ____þÿÿÿ_____" type="string"/>
+    </element>
+</database>

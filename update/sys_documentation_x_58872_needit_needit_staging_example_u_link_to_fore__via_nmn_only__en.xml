@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_link_to_fore__via_nmn_only_" label="Link to Foreman / Puppet [via NMN only]" language="en" table="x_58872_needit_needit_staging_example">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_link_to_fore__via_nmn_only_</element>
+            <help/>
+            <hint/>
+            <label>Link to Foreman / Puppet [via NMN only]</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_staging_example</name>
+            <plural>Link to Foreman / Puppet [via NMN only]s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-20 16:57:49</sys_created_on>
+            <sys_id>f9701f79db7213006b20d740cf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Link to Foreman / Puppet [via NMN only]</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_staging_example_u_link_to_fore__via_nmn_only__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-20 16:57:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

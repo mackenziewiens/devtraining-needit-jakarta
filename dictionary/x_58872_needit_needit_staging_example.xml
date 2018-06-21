@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="needit_staging_example" max_length="40" name="x_58872_needit_needit_staging_example" type="collection">
+        <element attributes="import_attribute_name=Admin-Info,edge_encryption_enabled=true" label="Admin-Info" max_length="306" name="u_admin_info" type="string"/>
+        <element attributes="import_attribute_name=Asset-Owned-By,edge_encryption_enabled=true" label="Asset-Owned-By" max_length="40" name="u_asset_owned_by" type="string"/>
+        <element attributes="import_attribute_name=Asset-Tag,edge_encryption_enabled=true" label="Asset-Tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element attributes="import_attribute_name=Backup-FQDN,edge_encryption_enabled=true" label="Backup-FQDN" max_length="40" name="u_backup_fqdn" type="string"/>
+        <element attributes="import_attribute_name=Backup-IP,edge_encryption_enabled=true" label="Backup-IP" max_length="40" name="u_backup_ip" type="string"/>
+        <element attributes="import_attribute_name=Basic-Warranty-End-Date,edge_encryption_enabled=true" label="Basic-Warranty-End-Date" max_length="40" name="u_basic_warranty_end_date" type="string"/>
+        <element attributes="import_attribute_name=Cabinet,edge_encryption_enabled=true" label="Cabinet" max_length="40" name="u_cabinet" type="string"/>
+        <element attributes="import_attribute_name=Cage,edge_encryption_enabled=true" label="Cage" max_length="40" name="u_cage" type="string"/>
+        <element attributes="import_attribute_name=Change-Request-Number,edge_encryption_enabled=true" label="Change-Request-Number" max_length="40" name="u_change_request_number" type="string"/>
+        <element attributes="import_attribute_name=Classification,edge_encryption_enabled=true" label="Classification" max_length="40" name="u_classification" type="string"/>
+        <element attributes="import_attribute_name=Company Using CI,edge_encryption_enabled=true" label="Company Using CI" max_length="48" name="u_company_using_ci" type="string"/>
+        <element attributes="import_attribute_name=Connected to,edge_encryption_enabled=true" label="Connected to" max_length="186" name="u_connected_to" type="string"/>
+        <element attributes="import_attribute_name=Created" label="Created" max_length="40" name="u_created" type="glide_date"/>
+        <element attributes="import_attribute_name=Customer-Hostname,edge_encryption_enabled=true" label="Customer-Hostname" max_length="55" name="u_customer_hostname" type="string"/>
+        <element attributes="import_attribute_name=Datacenter Code,edge_encryption_enabled=true" label="Datacenter Code" max_length="40" name="u_datacenter_code" type="string"/>
+        <element attributes="import_attribute_name=Decommissioned-Date" label="Decommissioned-Date" max_length="40" name="u_decommissioned_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="432" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Device Managed by,edge_encryption_enabled=true" label="Device Managed by" max_length="40" name="u_device_managed_by" type="string"/>
+        <element attributes="import_attribute_name=Device Service Type,edge_encryption_enabled=true" label="Device Service Type" max_length="40" name="u_device_service_type" type="string"/>
+        <element attributes="import_attribute_name=Device Usage,edge_encryption_enabled=true" label="Device Usage" max_length="40" name="u_device_usage" type="string"/>
+        <element attributes="import_attribute_name=EOSL" label="EOSL" max_length="40" name="u_eosl" type="glide_date"/>
+        <element attributes="import_attribute_name=External-IP,edge_encryption_enabled=true" label="External-IP" max_length="62" name="u_external_ip" type="string"/>
+        <element attributes="import_attribute_name=FQDN,edge_encryption_enabled=true" label="FQDN" max_length="40" name="u_fqdn" type="string"/>
+        <element attributes="import_attribute_name=ILO-FQDN,edge_encryption_enabled=true" label="ILO-FQDN" max_length="40" name="u_ilo_fqdn" type="string"/>
+        <element attributes="import_attribute_name=ILO-IP,edge_encryption_enabled=true" label="ILO-IP" max_length="40" name="u_ilo_ip" type="string"/>
+        <element attributes="import_attribute_name=Internet-Facing,edge_encryption_enabled=true" label="Internet-Facing" max_length="40" name="u_internet_facing" type="string"/>
+        <element attributes="import_attribute_name=Key,edge_encryption_enabled=true" label="Key" max_length="40" name="u_key" type="string"/>
+        <element attributes="import_attribute_name=Link to ArcSight [via NMN only],edge_encryption_enabled=true" label="Link to ArcSight [via NMN only]" max_length="40" name="u_link_to_arcs__via_nmn_only_" type="string"/>
+        <element attributes="import_attribute_name=Link to Foreman / Puppet [via NMN only],edge_encryption_enabled=true" label="Link to Foreman / Puppet [via NMN only]" max_length="40" name="u_link_to_fore__via_nmn_only_" type="string"/>
+        <element attributes="import_attribute_name=Link to LEMSS [via NMN only],edge_encryption_enabled=true" label="Link to LEMSS [via NMN only]" max_length="40" name="u_link_to_lemss__via_nmn_only_" type="string"/>
+        <element attributes="import_attribute_name=Link to RANCID [via NMN only],edge_encryption_enabled=true" label="Link to RANCID [via NMN only]" max_length="40" name="u_link_to_ranc__via_nmn_only_" type="string"/>
+        <element attributes="import_attribute_name=Link to vCenter [via NMN only],edge_encryption_enabled=true" label="Link to vCenter [via NMN only]" max_length="40" name="u_link_to_vcen__via_nmn_only_" type="string"/>
+        <element attributes="import_attribute_name=Link to Zabbix [via NMN only],edge_encryption_enabled=true" label="Link to Zabbix [via NMN only]" max_length="40" name="u_link_to_zabb__via_nmn_only_" type="string"/>
+        <element attributes="import_attribute_name=Logging Enabled,edge_encryption_enabled=true" label="Logging Enabled" max_length="40" name="u_logging_enabled" type="string"/>
+        <element attributes="import_attribute_name=Management-IP,edge_encryption_enabled=true" label="Management-IP" max_length="50" name="u_management_ip" type="string"/>
+        <element attributes="import_attribute_name=Manufacturer,edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="import_attribute_name=Manufacturer Warranty,edge_encryption_enabled=true" label="Manufacturer Warranty" max_length="40" name="u_manufacturer_warranty" type="string"/>
+        <element attributes="import_attribute_name=Model,edge_encryption_enabled=true" label="Model" max_length="71" name="u_model" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=NHS-Support-Team,edge_encryption_enabled=true" label="NHS-Support-Team" max_length="44" name="u_nhs_support_team" type="string"/>
+        <element attributes="import_attribute_name=OS-Type,edge_encryption_enabled=true" label="OS-Type" max_length="40" name="u_os_type" type="string"/>
+        <element attributes="import_attribute_name=Part-Number,edge_encryption_enabled=true" label="Part-Number" max_length="40" name="u_part_number" type="string"/>
+        <element attributes="import_attribute_name=Remove-From-Support-Contract,edge_encryption_enabled=true" label="Remove-From-Support-Contract" max_length="40" name="u_remove_from_support_contract" type="string"/>
+        <element attributes="import_attribute_name=Room,edge_encryption_enabled=true" label="Room" max_length="40" name="u_room" type="string"/>
+        <element attributes="import_attribute_name=RU,edge_encryption_enabled=true" label="RU" max_length="40" name="u_ru" type="string"/>
+        <element attributes="import_attribute_name=Serial-Number,edge_encryption_enabled=true" label="Serial-Number" max_length="76" name="u_serial_number" type="string"/>
+        <element attributes="import_attribute_name=SNMP-Community-String,edge_encryption_enabled=true" label="SNMP-Community-String" max_length="44" name="u_snmp_community_string" type="string"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=Supported Virtual Device(s),edge_encryption_enabled=true" label="Supported Virtual Device(s)" max_length="40" name="u_supported_virtual_device_s_" type="string"/>
+        <element attributes="import_attribute_name=Support-Contract-No,edge_encryption_enabled=true" label="Support-Contract-No" max_length="40" name="u_support_contract_no" type="string"/>
+        <element attributes="import_attribute_name=To be Monitored by Zabbix,edge_encryption_enabled=true" label="To be Monitored by Zabbix" max_length="40" name="u_to_be_monitored_by_zabbix" type="string"/>
+        <element attributes="import_attribute_name=Updated" label="Updated" max_length="40" name="u_updated" type="glide_date"/>
+    </element>
+</database>
